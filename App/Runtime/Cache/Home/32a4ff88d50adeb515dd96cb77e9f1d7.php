@@ -30,6 +30,7 @@
 			</span>
             <span class="password">
 				<input type="password" name="password" placeholder="密码">
+				<label class="auto" for="auto"><input type="checkbox" name="auto" id="auto">自动登录</label>
 			</span>
             <input type="submit" name="submit" value="登录">
         </div>

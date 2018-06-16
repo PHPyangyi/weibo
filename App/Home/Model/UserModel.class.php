@@ -84,7 +84,7 @@
 
         // check login
 
-        public function login ($username,$password)
+        public function login($username, $password, $auto)
         {
             $data=array(
                 'login_username'=>$username,
@@ -122,12 +122,16 @@
                 $auth = array(
                     'id'=>$user['id'],
                     'username'=>$user['username'],
-                    'last_login'=>$user['last_login'],
+                    'last_login'=>NOW_TIME,
                 );
 
                 //写入到session
                 session('user_auth', $auth);
 
+                //将用户名加密写入cookie
+                if ($auto == 'on') {
+                    cookie('auto', encryption($user['username'].'|'.get_client_ip()), 3600 * 24 * 30);
+                }
 
                 return $user['id'];
             } else {

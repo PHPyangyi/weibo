@@ -26,7 +26,7 @@
         {
             if (IS_AJAX) {
                 $User = D('User');
-                $uid = $User->login(I('post.username'), I('post.password'));
+                $uid = $User->login(I('post.username'), I('post.password'), I('post.auto'));
                 echo $uid;
             } else {
                 $this->error('非法访问');

@@ -6,6 +6,7 @@ class IndexController extends HomeController {
     {
         if ($this->login()) {
             echo '登录成功！';
+            dump(session('user_auth'));
         }
     }
 }

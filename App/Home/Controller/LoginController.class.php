@@ -13,11 +13,14 @@
 
     class LoginController extends HomeController
     {
-        public function index ()
+        public function index()
         {
-            $this->display();
+            if (!session('?user_auth')) {
+                $this->display();
+            } else {
+                $this->redirect('Index/index');
+            }
         }
-
         public function verify () {
             $Verify =new Verify();
             $Verify->length=4;
