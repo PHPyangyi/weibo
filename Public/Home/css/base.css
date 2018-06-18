@@ -1,0 +1,185 @@
+@CHARSET "UTF-8";
+/*自定义UI*/
+.ui-button {
+	background:url(../img/button.png) !important;
+	border:none !important;
+	color:#fff !important;
+	height:35px !important;
+}
+.ui-button:hover {
+	background:url(../img/button_hover.png) !important;
+}
+body,h1,h2,h3,h4,h5,h6,ul,ol,p,form,dl,dt,dd {
+	margin:0;
+	padding:0;
+}
+body {
+	background:url(../img/weibo_bg.jpg);
+	font-family:Arial, Helvetica, sans-serif;
+}
+ul,ol {
+	list-style:none;
+}
+#header {
+	width:100%;
+	height:42px;
+	background:url(../img/header_bg.png);
+	position:fixed;	
+	top:0;
+	z-index:9999;
+}
+#header .header_main {
+	width:960px;
+	height:42px;
+	margin:0 auto;
+}
+#header .logo {
+	width:86px;
+	height:42px;
+	background:url(../img/weibo_logo.png) no-repeat center;
+	text-indent:-9999px;
+	cursor:pointer;
+	float:left;
+}
+#header .nav {
+	float:left;
+	margin:0 0 0 30px;
+}
+#header .search {
+	float:right;
+	padding:8px 30px 0 0;
+	position:relative;
+}
+#header .search input {
+	padding:5px;
+	color:#999;
+	border:none;
+	background:#fff;
+	border-radius:4px;
+	width:200px;
+	height:16px;
+}
+#header .search a {
+	width:17px;
+	height:18px;
+	display:block;
+	background:url(../img/search_btn.png) no-repeat;
+	position:absolute;
+	top:13px;
+	right:38px;
+}
+#header ul li {
+	float:left;
+	height:42px;
+	line-height:42px;
+}
+#header ul li a {
+	padding:0 10px;
+	display:block;
+	font-size:14px;
+	color:#fff;
+	text-decoration:none;
+}
+#header ul li a:hover {
+	background:#333;
+}
+#header ul li a.selected {
+	background:#333;
+}
+#header .person {
+	float:right;
+	color:#fff;
+}
+#header .person a {
+	font-size:13px;
+}
+#header .app {
+	padding:0 12px;
+	position:relative;
+	cursor:pointer;
+	font-size:13px;
+}
+#header dl.list {
+	display:none;
+	width:100px;
+	background:#fff;
+	border:1px solid #666;
+	border-top:none;
+	position:absolute;
+	top:42px;
+	left:-51px;
+}
+#header dl.list a {
+	font-size:13px;
+	height:30px;
+	line-height:30px;
+	color:#444;
+}
+#header dl.list a:hover {
+	background:#eee;
+}
+#header dl.list a.line {
+	border-top:1px solid #eee;
+}
+#header .user {
+	position:relative;
+}
+#header .refer {
+	display:none;
+	width:140px;
+	height:35px;
+	line-height:35px;
+	background:#fafafa;
+	border:1px solid #666;
+	border-top:none;
+	position:absolute;
+	top:42px;
+	left:-51px;
+	color:#666;
+	font-size:13px;
+	text-indent:10px;
+}
+#header div.refer span {
+	float:right;
+	padding:0 8px 0 0;
+	cursor:pointer;
+	position:relative;
+	top:-2px;
+}
+#main {
+	width:960px;
+	min-height:800px;
+	margin:58px auto 0 auto;
+	background:#fff;
+	box-shadow:0 0 5px #ccc;
+}
+#error {
+	background:url(../img/error.png) no-repeat 20px center;
+	font-size:14px;
+	font-weight:bold;
+	color:red;
+	line-height:20px;
+	text-indent:35px;
+}
+#loading {
+	background:url(../img/loading.gif) no-repeat 20px 65%;
+	font-size:14px;
+	font-weight:bold;
+	color:#666;
+	line-height:18px;
+	text-indent:40px;
+}
+#footer {
+	width:960px;
+	height:40px;
+	line-height:40px;
+	margin:0 auto;
+	font-size:13px;
+	color:#333;
+}
+#footer .footer_left {
+	float:left;
+}
+#footer .footer_right {
+	float:right;
+}

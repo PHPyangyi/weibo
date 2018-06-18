@@ -1,0 +1,133 @@
+@CHARSET "UTF-8";
+#main .main_left {
+	width:169px;
+	min-height:800px;
+	background:#f7f7f7;
+	padding:0 10px;
+	float:left;
+}
+#main .main_left ul {
+	text-align:center;
+	font-size:13px;
+	padding:20px 0 0 0;
+}
+#main .main_left ul li {
+	height:30px;
+	line-height:30px;
+	margin:0 0 2px 0;
+}
+#main .main_left ul li a {
+	display:block;
+	text-decoration:none;
+	color:#666;
+}
+#main .main_left ul li a:hover, #main .main_left ul li a.selected {
+	color:#eee;
+	background:#333;
+}
+#main .main_right {
+	width:730px;
+	min-height:800px;
+	background:#fff;
+	padding:0 20px;
+	border-left:1px solid #ddd;
+	float:right;
+}
+#main .main_right h2 {
+	font-size:14px;
+	color:#333;
+	margin:10px 0 0 0;
+	height:35px;
+	line-height:35px;
+	border-bottom:1px solid #ddd;
+}
+#main .main_right dl {
+	font-size:13px;
+	margin:5px 0 0 0;
+	color:#333;
+}
+#main .main_right dl dd {
+	padding:5px 0;
+}
+#main .main_right dl dd span {
+	vertical-align:76px;
+}
+#main .main_right dl dd input.text {
+	width:300px;
+	height:20px;
+	padding:5px;
+	border-radius:3px;
+	border:1px solid #ccc;
+	background:#fff;
+	font-size:13px;
+	color:#333;
+}
+#main .main_right dl dd textarea {
+	width:300px;
+	height:80px;
+	padding:5px;
+	border-radius:3px;
+	border:1px solid #ccc;
+	background:#fff;
+	color:#333;
+	font-size:13px;
+	resize:none;
+}
+#main .main_right dl dd input.submit {
+	width:80px;
+	margin:0 0 0 65px;
+}
+#main .main_right dl dd input.approve {
+	width:80px;
+	margin:0 0 0 65px;
+}
+#main .main_right dl dd input.register {
+	width:80px;
+}
+#main .main_right dl dd.a {
+	font-weight:bold;
+}
+#main .main_right dl dd.b {
+	font-weight:normal;
+}
+#main .main_right dl dd b.red {
+	cursor:pointer;
+	color:red;
+}
+#main .main_right dl dd b.green {
+	cursor:pointer;
+	color:green;
+	font-weight:normal;
+}
+#main .main_right p.face_info {
+	margin:10px 0;
+	color:#333;
+	font-size:13px;
+}
+#main .main_right .face {
+	position:relative;
+}
+#main .main_right .crop_preview {
+	position:absolute;
+	top:0;
+	right:0;
+	width:200px;
+	height:200px;
+	overflow:hidden;
+	display:none;
+}
+#main .main_right #file {
+	margin:10px 0 0 0;
+}
+#main .main_right .cancel {
+	background:url(images/ui-bg_glass_75_e6e6e6_1x400.png) !important;
+	color:#333 !important;
+}
+
+
+
+
+
+
+
+

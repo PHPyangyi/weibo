@@ -55,7 +55,54 @@
 .icon-filter{
 	background:url('icons/filter.png') no-repeat center center;
 }
-
+.icon-login{
+	background:url('icons/login.png') no-repeat center center;
+}
+.icon-world{
+	background:url('icons/world.png') no-repeat center center;
+}
+.icon-house{
+	background:url('icons/house.png') no-repeat center center;
+}
+.icon-system{
+	background:url('icons/system.png') no-repeat center center;
+}
+.icon-text{
+	background:url('icons/text.png') no-repeat center center;
+}
+.icon-manager{
+	background:url('icons/manager.png') no-repeat center center;
+}
+.icon-user{
+	background:url('icons/user.png') no-repeat center center;
+}
+.icon-smile{
+	background:url('icons/smile.png') no-repeat center center;
+}
+.icon-report{
+	background:url('icons/report.png') no-repeat center center;
+}
+.icon-group{
+	background:url('icons/group.png') no-repeat center center;
+}
+.icon-award{
+	background:url('icons/award.png') no-repeat center center;
+}
+.icon-folder{
+	background:url('icons/folder.png') no-repeat center center;
+}
+.icon-delete-new{
+	background:url('icons/delete-new.png') no-repeat center center;
+}
+.icon-add-new{
+	background:url('icons/add-new.png') no-repeat center center;
+}
+.icon-user-add{
+	background:url('icons/user-add.png') no-repeat center center;
+}
+.icon-edit-new{
+	background:url('icons/edit-new.png') no-repeat center center;
+}
 
 .icon-mini-add{
 	background:url('icons/mini_add.png') no-repeat center center;

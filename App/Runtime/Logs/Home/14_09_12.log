@@ -1,0 +1,1065 @@
+[ 2014-09-12T11:24:45+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:24:55+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:25:26+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:25:44+08:00 ] 127.0.0.1 /weibo/Home/Topic/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: DESCRIBE weibo_topic [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_topic` (`content`,`ip`,`uid`,`create`) VALUES ('刷新方案！','2130706433','7',1410492344) [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:25:51+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:26:37+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:26:44+08:00 ] 127.0.0.1 /weibo/Home/Topic/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: DESCRIBE weibo_topic [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_topic` (`content`,`ip`,`uid`,`create`) VALUES ('当前页面自动刷新！','2130706433','7',1410492404) [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:26:44+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:28:07+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:28:13+08:00 ] 127.0.0.1 /weibo/Home/Topic/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: DESCRIBE weibo_topic [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_topic` (`content`,`ip`,`uid`,`create`) VALUES ('插入节点！','2130706433','7',1410492493) [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:30:10+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:30:13+08:00 ] 127.0.0.1 /weibo/Home/Topic/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: DESCRIBE weibo_topic [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_topic` (`content`,`ip`,`uid`,`create`) VALUES ('123','2130706433','7',1410492613) [ RunTime:0.015625s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:30:15+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:30:17+08:00 ] 127.0.0.1 /weibo/File/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:30:18+08:00 ] 127.0.0.1 /weibo/Home/Topic/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: DESCRIBE weibo_topic [ RunTime:0.015625s ]
+SQL: INSERT INTO `weibo_topic` (`content`,`ip`,`uid`,`create`) VALUES ('分享图片','2130706433','7',1410492618) [ RunTime:0.000000s ]
+SQL: DESCRIBE weibo_image [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_image` (`data`,`tid`) VALUES ('{\"thumb\":\".\\/Uploads\\/2014-09-12\\/180_541268c944aa2.jpg\",\"unfold\":\".\\/Uploads\\/2014-09-12\\/550_541268c944aa2.jpg\",\"source\":\".\\/Uploads\\/2014-09-12\\/541268c944aa2.jpg\"}',68) [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:30:23+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:30:25+08:00 ] 127.0.0.1 /weibo/File/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:30:25+08:00 ] 127.0.0.1 /weibo/File/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:30:27+08:00 ] 127.0.0.1 /weibo/Home/Topic/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: DESCRIBE weibo_topic [ RunTime:0.015625s ]
+SQL: INSERT INTO `weibo_topic` (`content`,`ip`,`uid`,`create`) VALUES ('分享图片','2130706433','7',1410492627) [ RunTime:0.000000s ]
+SQL: DESCRIBE weibo_image [ RunTime:0.015625s ]
+SQL: INSERT INTO `weibo_image` (`data`,`tid`) VALUES ('{\"thumb\":\".\\/Uploads\\/2014-09-12\\/180_541268d098968.jpg\",\"unfold\":\".\\/Uploads\\/2014-09-12\\/550_541268d098968.jpg\",\"source\":\".\\/Uploads\\/2014-09-12\\/541268d098968.jpg\"}',69) [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_image` (`data`,`tid`) VALUES ('{\"thumb\":\".\\/Uploads\\/2014-09-12\\/180_541268d198968.jpg\",\"unfold\":\".\\/Uploads\\/2014-09-12\\/550_541268d198968.jpg\",\"source\":\".\\/Uploads\\/2014-09-12\\/541268d198968.jpg\"}',69) [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:32:04+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:32:07+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:32:10+08:00 ] 127.0.0.1 /weibo/Home/Topic/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: DESCRIBE weibo_topic [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_topic` (`content`,`ip`,`uid`,`create`) VALUES ('123','2130706433','7',1410492730) [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:32:28+08:00 ] 127.0.0.1 /weibo/Home/Topic/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: DESCRIBE weibo_topic [ RunTime:0.015625s ]
+SQL: INSERT INTO `weibo_topic` (`content`,`ip`,`uid`,`create`) VALUES ('123','2130706433','7',1410492748) [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:32:35+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:33:16+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:33:29+08:00 ] 127.0.0.1 /weibo/Home/Topic/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015625s ]
+SQL: DESCRIBE weibo_topic [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_topic` (`content`,`ip`,`uid`,`create`) VALUES ('无配图无刷新方案！','2130706433','7',1410492809) [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:33:40+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:35:44+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:35:44+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:35:45+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:35:46+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:35:47+08:00 ] 127.0.0.1 /weibo/File/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:35:49+08:00 ] 127.0.0.1 /weibo/Home/Topic/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: DESCRIBE weibo_topic [ RunTime:0.015625s ]
+SQL: INSERT INTO `weibo_topic` (`content`,`ip`,`uid`,`create`) VALUES ('分享图片','2130706433','7',1410492949) [ RunTime:0.000000s ]
+SQL: DESCRIBE weibo_image [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_image` (`data`,`tid`) VALUES ('{\"thumb\":\".\\/Uploads\\/2014-09-12\\/180_54126a1398968.jpg\",\"unfold\":\".\\/Uploads\\/2014-09-12\\/550_54126a1398968.jpg\",\"source\":\".\\/Uploads\\/2014-09-12\\/54126a1398968.jpg\"}',73) [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:36:05+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015625s ]
+
+[ 2014-09-12T11:37:53+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:37:53+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:37:54+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:37:55+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:37:57+08:00 ] 127.0.0.1 /weibo/File/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015625s ]
+
+[ 2014-09-12T11:37:58+08:00 ] 127.0.0.1 /weibo/Home/Topic/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: DESCRIBE weibo_topic [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_topic` (`content`,`ip`,`uid`,`create`) VALUES ('分享图片','2130706433','7',1410493078) [ RunTime:0.000000s ]
+SQL: DESCRIBE weibo_image [ RunTime:0.015625s ]
+SQL: INSERT INTO `weibo_image` (`data`,`tid`) VALUES ('{\"thumb\":\".\\/Uploads\\/2014-09-12\\/180_54126a9500000.jpg\",\"unfold\":\".\\/Uploads\\/2014-09-12\\/550_54126a9500000.jpg\",\"source\":\".\\/Uploads\\/2014-09-12\\/54126a9500000.jpg\"}',74) [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:38:25+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:38:26+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:38:27+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:39:39+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:39:39+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:39:40+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:39:41+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:39:44+08:00 ] 127.0.0.1 /weibo/File/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:39:46+08:00 ] 127.0.0.1 /weibo/Home/Topic/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: DESCRIBE weibo_topic [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_topic` (`content`,`ip`,`uid`,`create`) VALUES ('分享图片','2130706433','7',1410493185) [ RunTime:0.000000s ]
+SQL: DESCRIBE weibo_image [ RunTime:0.015625s ]
+SQL: INSERT INTO `weibo_image` (`data`,`tid`) VALUES ('{\"thumb\":\".\\/Uploads\\/2014-09-12\\/180_54126affc28cb.jpg\",\"unfold\":\".\\/Uploads\\/2014-09-12\\/550_54126affc28cb.jpg\",\"source\":\".\\/Uploads\\/2014-09-12\\/54126affc28cb.jpg\"}',75) [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:40:23+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:40:24+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:40:25+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:40:26+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:40:27+08:00 ] 127.0.0.1 /weibo/File/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T11:40:29+08:00 ] 127.0.0.1 /weibo/Home/Topic/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: DESCRIBE weibo_topic [ RunTime:0.015625s ]
+SQL: INSERT INTO `weibo_topic` (`content`,`ip`,`uid`,`create`) VALUES ('分享图片','2130706433','7',1410493228) [ RunTime:0.000000s ]
+SQL: DESCRIBE weibo_image [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_image` (`data`,`tid`) VALUES ('{\"thumb\":\".\\/Uploads\\/2014-09-12\\/180_54126b2b632ea.jpg\",\"unfold\":\".\\/Uploads\\/2014-09-12\\/550_54126b2b632ea.jpg\",\"source\":\".\\/Uploads\\/2014-09-12\\/54126b2b632ea.jpg\"}',76) [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T12:45:20+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T12:45:21+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T12:45:22+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:40:19+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:40:21+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015625s ]
+
+[ 2014-09-12T21:40:22+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:40:24+08:00 ] 127.0.0.1 /weibo/File/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:40:25+08:00 ] 127.0.0.1 /weibo/Home/Topic/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015625s ]
+SQL: DESCRIBE weibo_topic [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_topic` (`content`,`ip`,`uid`,`create`) VALUES ('分享图片','2130706433','7',1410529225) [ RunTime:0.000000s ]
+SQL: DESCRIBE weibo_image [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_image` (`data`,`tid`) VALUES ('{\"thumb\":\".\\/Uploads\\/2014-09-12\\/180_5412f7c803d09.jpg\",\"unfold\":\".\\/Uploads\\/2014-09-12\\/550_5412f7c803d09.jpg\",\"source\":\".\\/Uploads\\/2014-09-12\\/5412f7c803d09.jpg\"}',92) [ RunTime:0.015625s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:40:59+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:40:59+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:41:00+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:42:26+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:42:26+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:42:27+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:42:29+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:42:33+08:00 ] 127.0.0.1 /weibo/File/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:42:34+08:00 ] 127.0.0.1 /weibo/Home/Topic/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015625s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: DESCRIBE weibo_topic [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_topic` (`content`,`ip`,`uid`,`create`) VALUES ('分享图片','2130706433','7',1410529354) [ RunTime:0.000000s ]
+SQL: DESCRIBE weibo_image [ RunTime:0.015625s ]
+SQL: INSERT INTO `weibo_image` (`data`,`tid`) VALUES ('{\"thumb\":\".\\/Uploads\\/2014-09-12\\/180_5412f848cdfe6.jpg\",\"unfold\":\".\\/Uploads\\/2014-09-12\\/550_5412f848cdfe6.jpg\",\"source\":\".\\/Uploads\\/2014-09-12\\/5412f848cdfe6.jpg\"}',93) [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:42:45+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015625s ]
+
+[ 2014-09-12T21:42:46+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:42:47+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:44:30+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:44:30+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:44:31+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:48:58+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:48:58+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:49:00+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:49:00+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:49:04+08:00 ] 127.0.0.1 /weibo/File/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:49:05+08:00 ] 127.0.0.1 /weibo/File/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:49:05+08:00 ] 127.0.0.1 /weibo/File/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:49:06+08:00 ] 127.0.0.1 /weibo/File/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:49:07+08:00 ] 127.0.0.1 /weibo/File/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:49:07+08:00 ] 127.0.0.1 /weibo/File/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:49:08+08:00 ] 127.0.0.1 /weibo/File/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:49:09+08:00 ] 127.0.0.1 /weibo/File/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:49:11+08:00 ] 127.0.0.1 /weibo/Home/Topic/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015625s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: DESCRIBE weibo_topic [ RunTime:0.015625s ]
+SQL: INSERT INTO `weibo_topic` (`content`,`ip`,`uid`,`create`) VALUES ('分享图片','2130706433','7',1410529751) [ RunTime:0.000000s ]
+SQL: DESCRIBE weibo_image [ RunTime:0.015625s ]
+SQL: INSERT INTO `weibo_image` (`data`,`tid`) VALUES ('{\"thumb\":\".\\/Uploads\\/2014-09-12\\/180_5412f9d01312d.jpg\",\"unfold\":\".\\/Uploads\\/2014-09-12\\/550_5412f9d01312d.jpg\",\"source\":\".\\/Uploads\\/2014-09-12\\/5412f9d01312d.jpg\"}',94) [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_image` (`data`,`tid`) VALUES ('{\"thumb\":\".\\/Uploads\\/2014-09-12\\/180_5412f9d0baeb9.jpg\",\"unfold\":\".\\/Uploads\\/2014-09-12\\/550_5412f9d0baeb9.jpg\",\"source\":\".\\/Uploads\\/2014-09-12\\/5412f9d0baeb9.jpg\"}',94) [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_image` (`data`,`tid`) VALUES ('{\"thumb\":\".\\/Uploads\\/2014-09-12\\/180_5412f9d166ff3.jpg\",\"unfold\":\".\\/Uploads\\/2014-09-12\\/550_5412f9d166ff3.jpg\",\"source\":\".\\/Uploads\\/2014-09-12\\/5412f9d166ff3.jpg\"}',94) [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_image` (`data`,`tid`) VALUES ('{\"thumb\":\".\\/Uploads\\/2014-09-12\\/180_5412f9d20b71b.jpg\",\"unfold\":\".\\/Uploads\\/2014-09-12\\/550_5412f9d20b71b.jpg\",\"source\":\".\\/Uploads\\/2014-09-12\\/5412f9d20b71b.jpg\"}',94) [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_image` (`data`,`tid`) VALUES ('{\"thumb\":\".\\/Uploads\\/2014-09-12\\/180_5412f9d2baeb9.jpg\",\"unfold\":\".\\/Uploads\\/2014-09-12\\/550_5412f9d2baeb9.jpg\",\"source\":\".\\/Uploads\\/2014-09-12\\/5412f9d2baeb9.jpg\"}',94) [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_image` (`data`,`tid`) VALUES ('{\"thumb\":\".\\/Uploads\\/2014-09-12\\/180_5412f9d35b8d8.jpg\",\"unfold\":\".\\/Uploads\\/2014-09-12\\/550_5412f9d35b8d8.jpg\",\"source\":\".\\/Uploads\\/2014-09-12\\/5412f9d35b8d8.jpg\"}',94) [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_image` (`data`,`tid`) VALUES ('{\"thumb\":\".\\/Uploads\\/2014-09-12\\/180_5412f9d3f0537.jpg\",\"unfold\":\".\\/Uploads\\/2014-09-12\\/550_5412f9d3f0537.jpg\",\"source\":\".\\/Uploads\\/2014-09-12\\/5412f9d3f0537.jpg\"}',94) [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_image` (`data`,`tid`) VALUES ('{\"thumb\":\".\\/Uploads\\/2014-09-12\\/180_5412f9d49c671.jpg\",\"unfold\":\".\\/Uploads\\/2014-09-12\\/550_5412f9d49c671.jpg\",\"source\":\".\\/Uploads\\/2014-09-12\\/5412f9d49c671.jpg\"}',94) [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:49:50+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:49:50+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:49:51+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:50:18+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:50:18+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:50:19+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:50:20+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:50:25+08:00 ] 127.0.0.1 /weibo/File/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:50:25+08:00 ] 127.0.0.1 /weibo/File/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:50:26+08:00 ] 127.0.0.1 /weibo/File/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:50:27+08:00 ] 127.0.0.1 /weibo/File/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:50:27+08:00 ] 127.0.0.1 /weibo/File/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:50:28+08:00 ] 127.0.0.1 /weibo/File/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:50:29+08:00 ] 127.0.0.1 /weibo/File/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015625s ]
+
+[ 2014-09-12T21:50:29+08:00 ] 127.0.0.1 /weibo/File/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:50:31+08:00 ] 127.0.0.1 /weibo/Home/Topic/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015625s ]
+SQL: DESCRIBE weibo_topic [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_topic` (`content`,`ip`,`uid`,`create`) VALUES ('分享图片','2130706433','7',1410529831) [ RunTime:0.000000s ]
+SQL: DESCRIBE weibo_image [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_image` (`data`,`tid`) VALUES ('{\"thumb\":\".\\/Uploads\\/2014-09-12\\/180_5412fa20af79e.jpg\",\"unfold\":\".\\/Uploads\\/2014-09-12\\/550_5412fa20af79e.jpg\",\"source\":\".\\/Uploads\\/2014-09-12\\/5412fa20af79e.jpg\"}',95) [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_image` (`data`,`tid`) VALUES ('{\"thumb\":\".\\/Uploads\\/2014-09-12\\/180_5412fa215f5e1.jpg\",\"unfold\":\".\\/Uploads\\/2014-09-12\\/550_5412fa215f5e1.jpg\",\"source\":\".\\/Uploads\\/2014-09-12\\/5412fa215f5e1.jpg\"}',95) [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_image` (`data`,`tid`) VALUES ('{\"thumb\":\".\\/Uploads\\/2014-09-12\\/180_5412fa220b71b.jpg\",\"unfold\":\".\\/Uploads\\/2014-09-12\\/550_5412fa220b71b.jpg\",\"source\":\".\\/Uploads\\/2014-09-12\\/5412fa220b71b.jpg\"}',95) [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_image` (`data`,`tid`) VALUES ('{\"thumb\":\".\\/Uploads\\/2014-09-12\\/180_5412fa22a4083.jpg\",\"unfold\":\".\\/Uploads\\/2014-09-12\\/550_5412fa22a4083.jpg\",\"source\":\".\\/Uploads\\/2014-09-12\\/5412fa22a4083.jpg\"}',95) [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_image` (`data`,`tid`) VALUES ('{\"thumb\":\".\\/Uploads\\/2014-09-12\\/180_5412fa2353ec6.jpg\",\"unfold\":\".\\/Uploads\\/2014-09-12\\/550_5412fa2353ec6.jpg\",\"source\":\".\\/Uploads\\/2014-09-12\\/5412fa2353ec6.jpg\"}',95) [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_image` (`data`,`tid`) VALUES ('{\"thumb\":\".\\/Uploads\\/2014-09-12\\/180_5412fa23ec82e.jpg\",\"unfold\":\".\\/Uploads\\/2014-09-12\\/550_5412fa23ec82e.jpg\",\"source\":\".\\/Uploads\\/2014-09-12\\/5412fa23ec82e.jpg\"}',95) [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_image` (`data`,`tid`) VALUES ('{\"thumb\":\".\\/Uploads\\/2014-09-12\\/180_5412fa2490f56.jpg\",\"unfold\":\".\\/Uploads\\/2014-09-12\\/550_5412fa2490f56.jpg\",\"source\":\".\\/Uploads\\/2014-09-12\\/5412fa2490f56.jpg\"}',95) [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_image` (`data`,`tid`) VALUES ('{\"thumb\":\".\\/Uploads\\/2014-09-12\\/180_5412fa253d090.jpg\",\"unfold\":\".\\/Uploads\\/2014-09-12\\/550_5412fa253d090.jpg\",\"source\":\".\\/Uploads\\/2014-09-12\\/5412fa253d090.jpg\"}',95) [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:50:47+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:50:47+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:50:48+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:50:51+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:50:57+08:00 ] 127.0.0.1 /weibo/File/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:50:58+08:00 ] 127.0.0.1 /weibo/File/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:50:58+08:00 ] 127.0.0.1 /weibo/File/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:50:59+08:00 ] 127.0.0.1 /weibo/File/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:51:00+08:00 ] 127.0.0.1 /weibo/File/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015625s ]
+
+[ 2014-09-12T21:51:00+08:00 ] 127.0.0.1 /weibo/File/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:51:01+08:00 ] 127.0.0.1 /weibo/File/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:51:02+08:00 ] 127.0.0.1 /weibo/File/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:51:04+08:00 ] 127.0.0.1 /weibo/Home/Topic/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: DESCRIBE weibo_topic [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_topic` (`content`,`ip`,`uid`,`create`) VALUES ('分享图片','2130706433','7',1410529864) [ RunTime:0.000000s ]
+SQL: DESCRIBE weibo_image [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_image` (`data`,`tid`) VALUES ('{\"thumb\":\".\\/Uploads\\/2014-09-12\\/180_5412fa411312d.jpg\",\"unfold\":\".\\/Uploads\\/2014-09-12\\/550_5412fa411312d.jpg\",\"source\":\".\\/Uploads\\/2014-09-12\\/5412fa411312d.jpg\"}',96) [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_image` (`data`,`tid`) VALUES ('{\"thumb\":\".\\/Uploads\\/2014-09-12\\/180_5412fa41b34a7.jpg\",\"unfold\":\".\\/Uploads\\/2014-09-12\\/550_5412fa41b34a7.jpg\",\"source\":\".\\/Uploads\\/2014-09-12\\/5412fa41b34a7.jpg\"}',96) [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_image` (`data`,`tid`) VALUES ('{\"thumb\":\".\\/Uploads\\/2014-09-12\\/180_5412fa425f5e1.jpg\",\"unfold\":\".\\/Uploads\\/2014-09-12\\/550_5412fa425f5e1.jpg\",\"source\":\".\\/Uploads\\/2014-09-12\\/5412fa425f5e1.jpg\"}',96) [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_image` (`data`,`tid`) VALUES ('{\"thumb\":\".\\/Uploads\\/2014-09-12\\/180_5412fa431312d.jpg\",\"unfold\":\".\\/Uploads\\/2014-09-12\\/550_5412fa431312d.jpg\",\"source\":\".\\/Uploads\\/2014-09-12\\/5412fa431312d.jpg\"}',96) [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_image` (`data`,`tid`) VALUES ('{\"thumb\":\".\\/Uploads\\/2014-09-12\\/180_5412fa43af79e.jpg\",\"unfold\":\".\\/Uploads\\/2014-09-12\\/550_5412fa43af79e.jpg\",\"source\":\".\\/Uploads\\/2014-09-12\\/5412fa43af79e.jpg\"}',96) [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_image` (`data`,`tid`) VALUES ('{\"thumb\":\".\\/Uploads\\/2014-09-12\\/180_5412fa445f5e1.jpg\",\"unfold\":\".\\/Uploads\\/2014-09-12\\/550_5412fa445f5e1.jpg\",\"source\":\".\\/Uploads\\/2014-09-12\\/5412fa445f5e1.jpg\"}',96) [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_image` (`data`,`tid`) VALUES ('{\"thumb\":\".\\/Uploads\\/2014-09-12\\/180_5412fa44f0537.jpg\",\"unfold\":\".\\/Uploads\\/2014-09-12\\/550_5412fa44f0537.jpg\",\"source\":\".\\/Uploads\\/2014-09-12\\/5412fa44f0537.jpg\"}',96) [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_image` (`data`,`tid`) VALUES ('{\"thumb\":\".\\/Uploads\\/2014-09-12\\/180_5412fa4598968.jpg\",\"unfold\":\".\\/Uploads\\/2014-09-12\\/550_5412fa4598968.jpg\",\"source\":\".\\/Uploads\\/2014-09-12\\/5412fa4598968.jpg\"}',96) [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:51:25+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:51:26+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:51:27+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:52:08+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:52:08+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:52:09+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:52:10+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:52:14+08:00 ] 127.0.0.1 /weibo/File/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:52:15+08:00 ] 127.0.0.1 /weibo/File/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015625s ]
+
+[ 2014-09-12T21:52:15+08:00 ] 127.0.0.1 /weibo/File/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:52:16+08:00 ] 127.0.0.1 /weibo/File/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:52:17+08:00 ] 127.0.0.1 /weibo/File/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:52:17+08:00 ] 127.0.0.1 /weibo/File/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:52:18+08:00 ] 127.0.0.1 /weibo/File/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015625s ]
+
+[ 2014-09-12T21:52:18+08:00 ] 127.0.0.1 /weibo/File/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:52:21+08:00 ] 127.0.0.1 /weibo/Home/Topic/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: DESCRIBE weibo_topic [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_topic` (`content`,`ip`,`uid`,`create`) VALUES ('分享图片','2130706433','7',1410529941) [ RunTime:0.015625s ]
+SQL: DESCRIBE weibo_image [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_image` (`data`,`tid`) VALUES ('{\"thumb\":\".\\/Uploads\\/2014-09-12\\/180_5412fa8dd59f8.jpg\",\"unfold\":\".\\/Uploads\\/2014-09-12\\/550_5412fa8dd59f8.jpg\",\"source\":\".\\/Uploads\\/2014-09-12\\/5412fa8dd59f8.jpg\"}',97) [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_image` (`data`,`tid`) VALUES ('{\"thumb\":\".\\/Uploads\\/2014-09-12\\/180_5412fa8e8583b.jpg\",\"unfold\":\".\\/Uploads\\/2014-09-12\\/550_5412fa8e8583b.jpg\",\"source\":\".\\/Uploads\\/2014-09-12\\/5412fa8e8583b.jpg\"}',97) [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_image` (`data`,`tid`) VALUES ('{\"thumb\":\".\\/Uploads\\/2014-09-12\\/180_5412fa8f31975.jpg\",\"unfold\":\".\\/Uploads\\/2014-09-12\\/550_5412fa8f31975.jpg\",\"source\":\".\\/Uploads\\/2014-09-12\\/5412fa8f31975.jpg\"}',97) [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_image` (`data`,`tid`) VALUES ('{\"thumb\":\".\\/Uploads\\/2014-09-12\\/180_5412fa8fc65d4.jpg\",\"unfold\":\".\\/Uploads\\/2014-09-12\\/550_5412fa8fc65d4.jpg\",\"source\":\".\\/Uploads\\/2014-09-12\\/5412fa8fc65d4.jpg\"}',97) [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_image` (`data`,`tid`) VALUES ('{\"thumb\":\".\\/Uploads\\/2014-09-12\\/180_5412fa906ea05.jpg\",\"unfold\":\".\\/Uploads\\/2014-09-12\\/550_5412fa906ea05.jpg\",\"source\":\".\\/Uploads\\/2014-09-12\\/5412fa906ea05.jpg\"}',97) [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_image` (`data`,`tid`) VALUES ('{\"thumb\":\".\\/Uploads\\/2014-09-12\\/180_5412fa911e848.jpg\",\"unfold\":\".\\/Uploads\\/2014-09-12\\/550_5412fa911e848.jpg\",\"source\":\".\\/Uploads\\/2014-09-12\\/5412fa911e848.jpg\"}',97) [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_image` (`data`,`tid`) VALUES ('{\"thumb\":\".\\/Uploads\\/2014-09-12\\/180_5412fa91aba95.jpg\",\"unfold\":\".\\/Uploads\\/2014-09-12\\/550_5412fa91aba95.jpg\",\"source\":\".\\/Uploads\\/2014-09-12\\/5412fa91aba95.jpg\"}',97) [ RunTime:0.015625s ]
+SQL: INSERT INTO `weibo_image` (`data`,`tid`) VALUES ('{\"thumb\":\".\\/Uploads\\/2014-09-12\\/180_5412fa92501bd.jpg\",\"unfold\":\".\\/Uploads\\/2014-09-12\\/550_5412fa92501bd.jpg\",\"source\":\".\\/Uploads\\/2014-09-12\\/5412fa92501bd.jpg\"}',97) [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:52:37+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:52:37+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:52:38+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:52:42+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:52:46+08:00 ] 127.0.0.1 /weibo/File/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:52:46+08:00 ] 127.0.0.1 /weibo/File/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:52:48+08:00 ] 127.0.0.1 /weibo/Home/Topic/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: DESCRIBE weibo_topic [ RunTime:0.015625s ]
+SQL: INSERT INTO `weibo_topic` (`content`,`ip`,`uid`,`create`) VALUES ('分享图片','2130706433','7',1410529968) [ RunTime:0.000000s ]
+SQL: DESCRIBE weibo_image [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_image` (`data`,`tid`) VALUES ('{\"thumb\":\".\\/Uploads\\/2014-09-12\\/180_5412faad66ff3.jpg\",\"unfold\":\".\\/Uploads\\/2014-09-12\\/550_5412faad66ff3.jpg\",\"source\":\".\\/Uploads\\/2014-09-12\\/5412faad66ff3.jpg\"}',98) [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_image` (`data`,`tid`) VALUES ('{\"thumb\":\".\\/Uploads\\/2014-09-12\\/180_5412faae632ea.jpg\",\"unfold\":\".\\/Uploads\\/2014-09-12\\/550_5412faae632ea.jpg\",\"source\":\".\\/Uploads\\/2014-09-12\\/5412faae632ea.jpg\"}',98) [ RunTime:0.015625s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:52:55+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:52:55+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:52:57+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:53:12+08:00 ] 127.0.0.1 /weibo/Home/Topic/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: DESCRIBE weibo_topic [ RunTime:0.015625s ]
+SQL: INSERT INTO `weibo_topic` (`content`,`ip`,`uid`,`create`) VALUES ('表情解析！[a_6]','2130706433','7',1410529992) [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:53:23+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:53:23+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:53:24+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:57:40+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:57:40+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:57:42+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:57:56+08:00 ] 127.0.0.1 /weibo/Home/Topic/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: DESCRIBE weibo_topic [ RunTime:0.015625s ]
+SQL: INSERT INTO `weibo_topic` (`content`,`ip`,`uid`,`create`) VALUES ('表情解析！[a_6]','2130706433','7',1410530276) [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:58:07+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:58:08+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T21:58:09+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T22:00:32+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T22:00:32+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T22:00:33+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015625s ]
+
+[ 2014-09-12T22:00:34+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T22:00:41+08:00 ] 127.0.0.1 /weibo/Home/Topic/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: DESCRIBE weibo_topic [ RunTime:0.000000s ]
+SQL: INSERT INTO `weibo_topic` (`content`,`ip`,`uid`,`create`) VALUES ('表情解析！[a_6]','2130706433','7',1410530441) [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015625s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2014-09-12T22:02:18+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T22:02:18+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2014-09-12T22:02:20+08:00 ] 127.0.0.1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+

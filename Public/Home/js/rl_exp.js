@@ -56,7 +56,7 @@ $(function(){
 				$(this).bind('click',function(){
 					rl_exp.insertText(document.getElementById('rl_exp_input'),'['+$(this).find('img').attr('title')+']');
 					$('#rl_bq').hide();
-					$('.arrow_top').hide();
+					$('.face_arrow_top').hide();
 				});
 			});
 		},
@@ -112,12 +112,12 @@ $(function(){
 				}
 				var w = $(this).position();
 				$('#rl_bq').css({left:w.left,top:w.top+30}).show();
-				$('.arrow_top').show();
+				$('.face_arrow_top').show();
 			});
 			/*绑定关闭按钮*/
 			$('#rl_bq a.close').bind('click',function(){
 				$('#rl_bq').hide();
-				$('.arrow_top').hide();
+				$('.face_arrow_top').hide();
 			});
 			/*绑定document点击事件，对target不在rl_bq弹出框上时执行rl_bq淡出，并阻止target在弹出按钮的响应。*/
 			$(document).bind('click',function(e){
@@ -126,7 +126,7 @@ $(function(){
 					return;
 				if( target.closest("#rl_bq").length == 0 ){
 					$('#rl_bq').hide();
-					$('.arrow_top').hide();
+					$('.face_arrow_top').hide();
 				}
 			});
 		}
