@@ -69,4 +69,14 @@
                 $this->error('非法访问！');
             }
         }
+
+        //logout
+        public function logout ()
+        {
+            session(null);
+            cookie(null);
+            $this->success('退出成功！', U('Login/index'));
+        }
+
+
     }

@@ -1217,7 +1217,7 @@ static public $yy_action = array(
 
     static public $yyTraceFILE;
     static public $yyTracePrompt;
-    public $yyidx;                    /* Login of top element in stack */
+    public $yyidx;                    /* Index of top element in stack */
     public $yyerrcnt;                 /* Shifts left before out of the error */
     public $yystack = array();  /* The parser's stack */
 
